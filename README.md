@@ -92,7 +92,7 @@ Visit the [**Live Demo**](https://global-air-pollution-prediction-modelgit-g5cgd
 ### 2. Local Installation
 ```bash
 # Clone repository
-git clone https://github.com/Wimukthi316/global-air-pollution-prediction-model.git
+git clone https://github.com/SadiniWanniarachchi/Global_AirPollution_Prediction_Model.git
 cd global-air-pollution-prediction-model
 
 # Install dependencies
@@ -185,18 +185,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit team for the amazing framework
 - scikit-learn community for ML tools
 
-## 📞 Contact
-
-**Wimukthi316** - [GitHub Profile](https://github.com/Wimukthi316)
-
-⭐ **Star this repository if it helped you!**
-
----
-
-<div align="center">
-
-**[🚀 Try the Live Demo](https://global-air-pollution-prediction-modelgit-g5cgdke6fimaqc9anmhqn.streamlit.app/) | [📊 Explore the Code](https://github.com/Wimukthi316/global-air-pollution-prediction-model)**
-
-*Made with ❤️ and 🤖 AI*
 
 </div>
